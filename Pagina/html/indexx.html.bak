@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Mi Página</title>
+	<meta charset="utf-8"/>
+	<meta name="author" content="Alvaro"/>
+	<!-- <link rel="stylesheet" href="css/estilosp.css"> -->
+	
+<style>
+	
+		
+	:root{background-color:;
+		
+		}
+	
+	#contendor{width:1600px;
+				height:1800px;
+				margin:auto;
+				
+				background-color:;
+				position:relative;}
+				
+	#header{background-color:#2b303b;
+			width:1570px;
+			height:400px;
+			position:relative;
+		}
+	#sect{background-color:#b1b1b1;
+			width:1570px;
+			height:600px;
+			position:relative;
+		}
+		
+			
+</style>
+
+</head>
+	<body>	
+			<div id="contendor">
+			<header id="header"></header>
+			<section id="sect"></section>
+		</div>
+			
+	</body>
+</html>

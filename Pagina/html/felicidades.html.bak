@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Mi Página</title>
+	<meta charset="utf-8"/>
+	<meta name="author" content="Alvaro"/>
+	<!-- <link rel="stylesheet" href="css/estilosp.css"> -->
+	
+<style>
+	
+		
+	:root{background-color:;
+		
+		}
+	
+	#contendor{width:1570px;
+				height:1800px;
+				margin:auto;
+				
+				background-color:;
+				position:relative;}
+				
+	#header{background-color:PINK;
+			width:1570px;
+			height:400px;
+			position:relative;
+		}
+	#sect{background-color:#b1b1b1;
+			width:1570px;
+			height:600px;
+			position:relative;
+		}
+	h1{text-align:center;}
+			
+</style>
+
+</head>
+	<body>	
+			<div id="contendor">
+			<header id="header">
+			<h1>FELICIDADES!!!!!🤑🤑🤑🤑🤑🤑🤑<br> GANASTE UN IPHONE🤩🤩<br>POR SER EL CLIENTE  nº100.000!!!🥵!<br> RELLENA ESTE SENCILLO FORMULARIO Y EL DINERO SERA TUYO</h1>
+			
+			</header>
+			<section id="sect"></section>
+		</div>
+			
+	</body>
+</html>
